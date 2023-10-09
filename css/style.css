@@ -92,6 +92,19 @@
   position: relative;
 }
 
+.year-box {
+  position: absolute;  
+  right: 0px;
+  top: 100px;
+  width: 234px;
+  height: 255px;
+  font-size: 18px;
+}
+
+.year-box div {
+  margin: 12px 0px;
+}
+
 .home-article {
   display: flex;
   margin: 25px;
